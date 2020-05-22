@@ -1,2 +1,1 @@
-# PYTHON-CODES
-program related to python's
+# Python Codes
